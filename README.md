@@ -75,7 +75,11 @@ The development of Wallistic followed a user-centered design approach, involving
 ## Big Picture Storyboard
 ![big picture storyboard](./img/storyboard.png)
 
-### Prerequisites
+## More Details
+
+View [Project details folder](./Project_details) for more details of our project
+
+## Prerequisites
 
 - Node.js
 - Expo CLI
