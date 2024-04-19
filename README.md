@@ -62,14 +62,50 @@ The development of Wallistic followed a user-centered design approach, involving
 
 ## Team
 
-Wallistic was developed by a team of 6 members, with [@yourusername] serving as the leader for Demo 2.
+Wallistic was developed by a team of 5 members
+
+# Wallistic App Feature Demos
+
+## 1. Create account or login
+[Create account or login](https://drive.google.com/file/d/1kWUgL0CWFrdEpIgBRkYzRu5VtG9fN-P1/view?usp=sharing)
+
+## 2. Add folder and add image
+[Add folder and add image](https://drive.google.com/file/d/13Rcu7A1eYtpw2hzPajMRDOuL--RPoyMy/view?usp=sharing)
+
+## 3. Total pins will increment
+[Total pins will increment](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+Note: Below the profile picture, there will be a "Total pin" field representing the current number of pins.
+
+## 4. Add image to favorites
+[Add image to favorites](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+## 5. Set dark mode
+[Set dark mode](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+## 6. Change preview mode
+[Change preview mode](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+## 7. Editing
+[Editing](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+## 8. Download
+[Download](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+## 9. Share
+[Share](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+## 10. Storage
+[Storage](https://drive.google.com/file/d/DRIVE_FILE_ID/view?usp=sharing)
+
+Note: The preview and edit state of user-created folders can be preserved.
 
 ## Reports
 
 Detailed reports on the design and development process of Wallistic can be found in the following PDF files:
 
-- [Demo 1 Report](./Project_details/demo%1/Demo1_Report_Team07.pdf)
-- [Demo 2 Report](./Project_details/demo%2/Demo2_Report_Team07.pdf) 
+- [Demo 1 Report](./Project_details/demo1/Demo1_Report_Team07.pdf)
+- [Demo 2 Report](./Project_details/demo2/Demo2_Report_Team07.pdf) 
 
 ## Acknowledgements
 
