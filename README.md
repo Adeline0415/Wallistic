@@ -54,8 +54,8 @@ Wallistic is developed using React Native and Expo, allowing for easy developmen
 
 Detailed reports on the design and development process of Wallistic can be found in the following PDF files:
 
-- [Demo 1 Report](./Project_details/demo1/Demo1_Report_Team07.pdf)
-- [Demo 2 Report](./Project_details/demo2/Demo2_Report_Team07.pdf)
+- [Demo 1 Report](https://drive.google.com/file/d/13-4QIfvlgjpXLjSi2JpmkOKDeDagnqXY/view?usp=sharing)
+- [Demo 2 Report](https://drive.google.com/file/d/1YJh42YLDd8OH2wO5BOt9oSpaFrgDVFiO/view?usp=sharing)
 
 ## Design Process
 
