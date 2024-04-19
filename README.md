@@ -15,7 +15,7 @@ Wallistic is a mobile application designed to help users efficiently find and se
 
 Wallistic is developed using React Native and Expo, allowing for easy development and testing on both iOS and Android devices.
 
-## Figma prototype: 
+## Figma Prototype: 
 
 - [Light Mode](https://www.figma.com/proto/v0NciO6hnoA7JuotXtXol1/DEMO2?type=design&node-id=2013-12994&t=dBF4FRnBTIUGCaLC-9&scaling=scale-down&page-id=1011%3A3346&starting-point-node-id=2013%3A12994&show-proto-sidebar=1)
 
@@ -70,6 +70,13 @@ The development of Wallistic followed a user-centered design approach, involving
 4. UI design using Figma
 5. Design critiques and improvements
 6. Usability testing and iterative refinements
+
+## Happy Path
+![happy path](./img/happypath.jpg)
+## Close Up Storyboard
+![close up storyboard](./img/Close-up-storyboards.jpg)
+## Big Picture Storyboard
+![big picture storyboard](./img/storyboard.png)
 
 ### Prerequisites
 
