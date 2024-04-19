@@ -24,7 +24,7 @@ Wallistic is developed using React Native and Expo, allowing for easy developmen
 
 ## Wallistic App Feature Demos Video
 
-(Adjust the video picture value to 720 to make the video clearer)
+(You can adjust the video picture value to 720 to make the video clearer)
   
 - [Create account or login](https://drive.google.com/file/d/1kWUgL0CWFrdEpIgBRkYzRu5VtG9fN-P1/view?usp=sharing)
 
