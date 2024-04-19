@@ -81,7 +81,3 @@ The development of Wallistic followed a user-centered design approach, involving
 
 We would like to thank our users for their valuable feedback and insights throughout the development process. Their contributions have been essential in shaping Wallistic into a user-friendly and efficient app.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
