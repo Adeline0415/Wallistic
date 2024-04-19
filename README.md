@@ -68,8 +68,8 @@ Wallistic was developed by a team of 6 members, with [@yourusername] serving as 
 
 Detailed reports on the design and development process of Wallistic can be found in the following PDF files:
 
-- [Demo 1 Report](Demo-1-Report%200415.docx.pdf)
-- [Demo 2 Report](demo2_Report_team07.pdf) 
+- [Demo 1 Report](./Project_details/demo%1/Demo1_Report_Team07.pdf)
+- [Demo 2 Report](./Project_details/demo%2/Demo2_Report_Team07.pdf) 
 
 ## Acknowledgements
 
